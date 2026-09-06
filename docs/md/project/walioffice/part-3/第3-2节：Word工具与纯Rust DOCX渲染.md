@@ -1,6 +1,6 @@
 ---
 title: 第3-2节：Word工具与纯Rust DOCX渲染
-pay: 
+pay: https://t.zsxq.com/aMlN7
 ---
 
 # 《WaLiOffice - AI Agent 智能办公平台》第3-2节：Word工具与纯Rust DOCX渲染
